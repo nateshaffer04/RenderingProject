@@ -3,7 +3,7 @@
  * Email: nshaffe4@u.rochester.edu
  * Date Created: 6/1/2025
  * 
- * DESCRIPTION OF FILE
+ * Main renderer class, stores a collection of models and a camera, and renders them to a render target
  */
 
 #include <sstream>

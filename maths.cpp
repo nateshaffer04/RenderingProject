@@ -3,7 +3,7 @@
  * Email: nshaffe4@u.rochester.edu
  * Date Created: 6/1/2025
  * 
- * DESCRIPTION OF FILE
+ * Primarily vector operations, as well as rotation operations on those vectors
  */
 
 #include "maths.h"

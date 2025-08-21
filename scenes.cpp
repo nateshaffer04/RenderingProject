@@ -3,7 +3,7 @@
  * Email: nshaffe4@u.rochester.edu
  * Date Created: 6/11/2025
  * 
- * DESCRIPTION OF FILE
+ * Contains classes for objects, textures, as well as the scene and camera
  */
 
 #include "scenes.h"
